@@ -1,1 +1,1 @@
-# Mu
+Decode lab project
